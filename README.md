@@ -1,18 +1,18 @@
 # 🚀 SMD-MINI
 ### A Powerful WhatsApp Bot  
-> Created with ❤️ by **Team-Bandaheali**
+> Created with ❤️ by **x-hacker**
 
 <p align="center">
-<img src="https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg" alt="SMD-MINI" width="500">
+<img src="https://hashim-x-hacker-cdn.koyeb.app/hashim/smd.jpg" alt="SMD-MINI" width="500">
 </p>
 
 <p align="center">
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI/fork">
+<a href="https://github.com/hashim-x-hacker/SMD-MINI/fork">
 <img src="https://img.shields.io/badge/FORK-SMD--MINI-blue?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI">
+<a href="https://github.com/iTx-hacker/SMD-MINI">
 <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
 </a>
 
@@ -33,21 +33,21 @@ It includes a plugin system, automation features, and a scalable bot architectur
 # 👑 Team Bandaheali
 
 <p align="center">
-<img src="https://bandaheali-cdn.koyeb.app/bandaheali/team.jpg" alt="Team-Bandaheali" width="500">
+<img src="https://hashim-cdn.koyeb.app/hashim/team.jpg" alt="Team-shadow" width="500">
 </p>
 
 <p align="center">
 
 <a href="https://github.com/MESHABAN45">
-<img src="https://img.shields.io/badge/MR--SHABAN-CEO-purple?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/MR--hashim-CEO-purple?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/iTx-Sarkar">
+<a href="https://github.com/iTx-hashim">
 <img src="https://img.shields.io/badge/RASHID-THE--DEVIL%20(Lead%20Developer)-red?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/Bandah-e-Ali">
-<img src="https://img.shields.io/badge/BANDAHEALI-DONATER%20%26%20SUPPORTER-blue?style=for-the-badge&logo=github">
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/x-hacker-DONATER%20%26%20SUPPORTER-blue?style=for-the-badge&logo=github">
 </a>
 
 </p>
@@ -58,9 +58,9 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 <p align="center">
 
-<a href="https://whatsapp.com/channel/0029Vb84fm6Ae5VugThS6F07">
-<img src="https://img.shields.io/badge/JOIN-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+<a href="(https://whatsapp.com/channel/0029VbC0J64KwqSZBX9ZYO3f)">
+<img src="[https://img.shields.io/badge/JOIN-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>](https://i.ibb.co/vxGSv1Gb/bb4367a66fba.jpg)
 
 </p>
 
